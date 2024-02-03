@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Full Stack Dev...**
 
-- 💬 Ask me about **C, C++, Python, DSA, HTML, CSS, JS, BOOTSTRAP**
+- 💬 Ask me about **C, C++, C#, DSA, HTML, CSS, JS, BOOTSTRAP, GIT, GITHUB**
 
 - 📫 How to reach me **arunraksha234@gmail.com**
 
